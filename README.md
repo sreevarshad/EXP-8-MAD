@@ -1,15 +1,15 @@
 # Ex.No:8 To create a gallery control using android studio to display images or photos.
 
 
-## AIM:
+### AIM:
 
 To create a gallery control using android studio to display images or photos.
 
-## EQUIPMENTS REQUIRED:
+### EQUIPMENTS REQUIRED:
 
 Latest Version Android Studio
 
-## ALGORITHM:
+### ALGORITHM:
 
 Step 1: Open Android Studio and then click on File -> New -> New project.
 
@@ -28,15 +28,13 @@ Step 7: Set the adapter for gallery in MainActivity file.
 Step 8: Save and run the application.
 
 
-## PROGRAM:
-```
-/*
+### PROGRAM:
 Program to print the text “GalleryControl”.
-Developed by: DINESH KUMAR M
-Registeration Number : 212221220011
-*/
-```
-activity_main.xml:
+
+Developed by:Kathirvelan.K
+Registeration Number : 212221220026
+
+Activity_main.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -76,7 +74,7 @@ activity_main.xml:
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 ```
-CustomizedGalleryAdapter.java:
+CustomizedGalleryAdapter.java
 
 ```
 package com.example.gallerycontrol;
@@ -120,7 +118,7 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
     }
 }
 ```
-MainActivity.java:
+MainActivity.java
 
 ```
 package com.example.gallerycontrol;
@@ -164,15 +162,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![image](https://github.com/kannan0071/MAD-Ex.No-8/assets/119641638/5908f524-b8f6-4eda-a588-389d8948a52c)
 
-![image](https://github.com/kannan0071/MAD-Ex.No-8/assets/119641638/41d6893e-c72a-4c7f-bf8a-9a1cd4cb0be9)
-
-![image](https://github.com/kannan0071/MAD-Ex.No-8/assets/119641638/4be92880-a32c-4a94-8520-3d34d1418be9)
-
-![WhatsApp Image 2023-05-25 at 13 47 44](https://github.com/kannan0071/MAD-Ex.No-8/assets/119641638/4b4ecff7-bd74-4c4a-a326-45145ffb3cae)
-
-![WhatsApp Image 2023-05-25 at 13 47 45](https://github.com/kannan0071/MAD-Ex.No-8/assets/119641638/185dc590-dbc4-4857-bb9e-3858ffc79dff)
 
 ![WhatsApp Image 2023-05-25 at 13 47 46](https://github.com/kannan0071/MAD-Ex.No-8/assets/119641638/35102752-eccd-4e31-a3d6-81a7632fc1b4)
 
