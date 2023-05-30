@@ -160,18 +160,18 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
-## OUTPUT
+## OUTPUT:
 
 
 
-![WhatsApp Image 2023-05-25 at 13 47 46](https://github.com/kannan0071/MAD-Ex.No-8/assets/119641638/35102752-eccd-4e31-a3d6-81a7632fc1b4)
+![WhatsApp Image 2023-05-25 at 13 47 46]()
 
-![WhatsApp Image 2023-05-25 at 13 47 46](https://github.com/kannan0071/MAD-Ex.No-8/assets/119641638/1b6887ce-5ae9-43ca-801e-809698849fcc)
-
-
+![WhatsApp Image 2023-05-25 at 13 47 46]()
 
 
-## RESULT
+
+
+## RESULT:
 Thus a Simple Android Application to create a gallery control using android studio to display images or photos is developed and executed successfully.
 
 
