@@ -174,6 +174,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## RESULT:
-Thus a Simple Android Application to create a gallery control using android studio to display images or photos is developed and executed successfully.
+Thus a Simple Android Application to create a gallery control using android studio to display image or photos is developed and executed successfully.
 
 
