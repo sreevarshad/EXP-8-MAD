@@ -159,10 +159,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ## OUTPUT:
-
-
 
 ![WhatsApp Image 2023-05-25 at 13 47 46](https://github.com/KATHIR1611/EXP-8-MAD/blob/main/vc%201.png)
 
