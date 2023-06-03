@@ -1,4 +1,4 @@
-# Ex.No:8 To create a gallery control using android studio to display images or photos.
+# Ex.No:8 To create a gallery control using android studio to display images or photos
 
 
 ### AIM:
@@ -35,7 +35,7 @@ Developed by:Kathirvelan.K
 
 Registeration Number : 212221220026
 
-Activity_main.xml
+activity_main.xml
 
 ```
 <?xml version="1.0" encoding="utf-8"?>
