@@ -32,6 +32,7 @@ Step 8: Save and run the application.
 Program to print the text “GalleryControl”.
 
 Developed by:Kathirvelan.K
+
 Registeration Number : 212221220026
 
 Activity_main.xml
